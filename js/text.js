@@ -154,7 +154,7 @@ export const traducoes = {
             面白いものを作ることと、新しい技術を学ぶのが大好き。ぜひ作品を見ていってね！
         `,
         cv: "CVを見る",
-        btnGit: "私の仕事を見る",
+        btnGit: "仕事を見る",
         ou: "それとも",
 
         carregando: "読み込み中...",
