@@ -1,4 +1,4 @@
-export let idiomaAtual = "en";
+export let idiomaAtual = "pt";
 
 export const traducoes = {
     en: {
@@ -15,7 +15,7 @@ export const traducoes = {
         homeDescricao: `
             Passionate about building cool things and learning new tech. Explore my work below!
         `,
-        cv: "get my CV",
+        cv: `<a href="./cv/cv_EN.pdf">get my CV</a>`,
         btnGit: "see my work",
         ou: "or just",
 
@@ -84,7 +84,7 @@ export const traducoes = {
         homeDescricao: `
             Apaixonado por criar coisas legais e aprender tecnologias novas. Dá uma olhada no meu trabalho logo abaixo!
         `,
-        cv: "veja meu CV",
+        cv: `<a href="./cv/cv.pdf">veja meu CV</a>`,
         btnGit: "veja meu trabalho",
         ou: "ou só",
 
@@ -153,9 +153,9 @@ export const traducoes = {
         homeDescricao: `
             面白いものを作ることと、新しい技術を学ぶのが大好き。ぜひ作品を見ていってね！
         `,
-        cv: "CVを見る",
+        cv: ` `,
         btnGit: "仕事を見る",
-        ou: "それとも",
+        ou: ` `,
 
         carregando: "読み込み中...",
         semProjetos: "プロジェクトが見つかりません。",
